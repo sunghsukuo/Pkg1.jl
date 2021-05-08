@@ -1,0 +1,7 @@
+name = "Pkg1"
+uuid = "0a55c2f8-8edd-4208-9010-4aa03bee0be9"
+authors = ["Gordon Sung <sunghsukuo@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
