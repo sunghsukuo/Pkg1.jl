@@ -1,6 +1,4 @@
-using Test
-import Pkg1
+using Test, Pkg1
 
-Pkg1.greet()
 
-@test true
+@test greet() == "Hello Pkg1"
